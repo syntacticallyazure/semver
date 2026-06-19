@@ -1,0 +1,7 @@
+[project]
+name = "azuretools"
+version = "0.0.1"
+description = "a series of standalone scripts"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
